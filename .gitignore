@@ -2,6 +2,7 @@
 .vscode
 *pycache*
 *data*
+images
 
 # file
 .gitignore
